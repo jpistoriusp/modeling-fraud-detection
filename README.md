@@ -1,8 +1,12 @@
-## Evaluation Metric Rationale
+I chose a fraud detection dataset because it represents a real-world challenge with serious impact. Insurance fraud is a major problem for companies, costing billions of dollars each year. Being able to spot potentially fraudulent claims early can save time, money, and help honest customers get faster service.
 
-### Why Logistic Regression?
+This type of project allowed me to:
+- Work with imbalanced data, which is common in real scenarios.
+- Explore patterns in human behavior, policy details, and claim types.
+- Practice building a machine learning model to predict yes/no outcomes (fraud or not fraud).
 
-Logistic Regression was selected as the **baseline model** for this fraud detection task due to the following reasons:
+
+Logistic Regression was selected as the baseline model for this fraud detection task due to the following reasons:
 
 - **Simplicity & Interpretability**:  
   Logistic Regression provides clear, interpretable coefficients, helping stakeholders understand which features most influence the likelihood of fraud.
