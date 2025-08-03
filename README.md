@@ -1,6 +1,6 @@
 # Insurance Fraud Detection
 
-[View the full notebook here]([modeling-fraud-detection/blob/main/Capstone_Fraud_Detection_Modeling.ipynb](https://github.com/jpistoriusp/modeling-fraud-detection/blob/main/Capstone_Fraud_Detection_Final2.ipynb))
+[View the full notebook here](Capstone_Fraud_Detection_Final2.ipynb)
 
 ## Project Summary
 
